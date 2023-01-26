@@ -1,0 +1,12 @@
+- API REST
+  - node + typescript + eslint
+  - CRUD usuário/produto
+  - Realizar venda
+- Autenticação
+- Tests
+- Conexão banco MySQL
+  - MySQL
+  - Usuário: precisamos saber o nome do usuário
+  - Produto: precisamos saber o nome, estoque e valor do produto
+  - Venda: precisamos saber a quantidade, o produto, o usuário e o valor
+- Livre para usar a biblioteca que quiser
